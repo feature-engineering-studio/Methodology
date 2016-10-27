@@ -8,6 +8,6 @@ How should we deal with the strongly right skewed data?
      Method 1: More traditional regression model with cross validation
      Method 2:  Classification And Regression Tree (CART) analysis or Bayesian
 Next week:
-Clean the data, do the deletion 
-Study how to use R to produce Scatter Plots and Correlation Matrix
+ Clean the data, do the deletion 
+ Study how to use R to produce Scatter Plots and Correlation Matrix
 
