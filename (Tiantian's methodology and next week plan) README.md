@@ -12,7 +12,7 @@ How should we deal with the strongly right skewed data?
                     - No or little multicollinearity
                     - No auto-correlation
                     - Homoscedasticity
-              - Method 2:  Classification And Regression Tree (CART) analysis
+        - Method 2:  Classification And Regression Tree (CART) analysis
          -Assumption: there's no distributional assumption for data.
 - Validation
       - we'll use cross validation techinique.We'll generate a model for one class. And then we'll apply it to other classes and see whether it can also fit well. 
