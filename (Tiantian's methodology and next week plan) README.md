@@ -8,10 +8,10 @@ How should we deal with the strongly right skewed data?
         - Method 1: More traditional regression model with cross validation. Base on our visualization, the regression would be linear. 
             - Assumption for linear regression:
                   - Linear relationship
-                    - Multivariate normality
-                    - No or little multicollinearity
-                    - No auto-correlation
-                    - Homoscedasticity
+                  - Multivariate normality
+                  - No or little multicollinearity
+                  - No auto-correlation
+                  - Homoscedasticity
         - Method 2:  Classification And Regression Tree (CART) analysis
          -Assumption: there's no distributional assumption for data.
 - Validation
