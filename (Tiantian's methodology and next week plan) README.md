@@ -7,7 +7,7 @@ How should we deal with the strongly right skewed data?
       - We have two options of methodology. We decided to compare two methodologies.
         - Method 1: More traditional regression model with cross validation. Base on our visualization, the regression would be linear. 
                   - Assumption for linear regression:
-                    - Linear relationship
+                        - Linear relationship
                     - Multivariate normality
                     - No or little multicollinearity
                     - No auto-correlation
