@@ -6,8 +6,8 @@ How should we deal with the strongly right skewed data?
 - Then we will change our research aim to find what and how features are correlated with students’ grades for online courses given they finished assignments.
       - We have two options of methodology. We decided to compare two methodologies.
         - Method 1: More traditional regression model with cross validation. Base on our visualization, the regression would be linear. 
-                  - Assumption for linear regression:
-                        - Linear relationship
+            - Assumption for linear regression:
+                  - Linear relationship
                     - Multivariate normality
                     - No or little multicollinearity
                     - No auto-correlation
